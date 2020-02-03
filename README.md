@@ -1,3 +1,11 @@
+## Quick Steps
+
+- Create 'blog' Database in MySQL
+- Change `datasource-xxx.xml` with valid DB details
+- Run `mvn clean install`
+
+
+
 A simple blog created during Java/OOP course in university.
 
 Username/password auth, admin can add/edit/delete blog posts, users (after registration) can add comments, vote (+1/-1) for posts and comments.
